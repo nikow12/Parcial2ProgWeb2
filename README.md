@@ -1,16 +1,24 @@
-# React + Vite
+# daza-jose-inventario
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Estudiante
+Jose Fernando Daza Arias - Universidad Privada Domingo Savio (UPDS)
+Nikolay Gorelkin Wills - Universidad Privada Domingo Savio (UPDS)
 
-Currently, two official plugins are available:
+## Descripción
+Sistema de gestión de inventario tecnológico desarrollado en React. Permite registrar equipos a través de un formulario con validaciones e integrarlos dinámicamente en el estado de la aplicación para su visualización inmediata, sin recargar la página.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Funcionalidades implementadas
+- Componentes reutilizables con paso de datos mediante props.
+- Manejo del estado local en formularios (`useState`).
+- Validaciones estructuradas (campos obligatorios, números mínimos).
+- Flujo de estado bidireccional (Formulario → App → Listado).
+- Renderizado condicional para mensajes de error, éxito, estados de disponibilidad y listas vacías.
 
-## React Compiler
+## Tecnologías utilizadas
+React, Vite, JavaScript, Bootstrap, Git y GitHub.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Instrucciones para ejecutar el proyecto
+1. Clonar el repositorio.
+2. Abrir una terminal en la carpeta del proyecto.
+3. Ejecutar `npm install` para instalar las dependencias.
+4. Ejecutar `npm run dev` para levantar el servidor local de Vite.
