@@ -1,4 +1,4 @@
-# daza-jose-inventario
+# daza-gorelkin-inventario
 
 ## Estudiante
 - Jose Fernando Daza Arias - Universidad Privada Domingo Savio (UPDS)
