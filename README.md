@@ -1,8 +1,8 @@
 # daza-jose-inventario
 
 ## Estudiante
-Jose Fernando Daza Arias - Universidad Privada Domingo Savio (UPDS)
-Nikolay Gorelkin Wills - Universidad Privada Domingo Savio (UPDS)
+- Jose Fernando Daza Arias - Universidad Privada Domingo Savio (UPDS)
+- Nikolay Gorelkin Wills - Universidad Privada Domingo Savio (UPDS)
 
 ## Descripción
 Sistema de gestión de inventario tecnológico desarrollado en React. Permite registrar equipos a través de un formulario con validaciones e integrarlos dinámicamente en el estado de la aplicación para su visualización inmediata, sin recargar la página.
